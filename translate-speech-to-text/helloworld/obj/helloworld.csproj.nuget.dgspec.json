@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Taha\\Desktop\\cognitive-services-speech-sdk-master\\cognitive-services-speech-sdk-master\\quickstart\\csharp\\dotnet\\translate-speech-to-text\\helloworld\\helloworld.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Taha\\Desktop\\cognitive-services-speech-sdk-master\\cognitive-services-speech-sdk-master\\quickstart\\csharp\\dotnet\\translate-speech-to-text\\helloworld\\helloworld.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Taha\\Desktop\\cognitive-services-speech-sdk-master\\cognitive-services-speech-sdk-master\\quickstart\\csharp\\dotnet\\translate-speech-to-text\\helloworld\\helloworld.csproj",
+        "projectName": "helloworld",
+        "projectPath": "C:\\Users\\Taha\\Desktop\\cognitive-services-speech-sdk-master\\cognitive-services-speech-sdk-master\\quickstart\\csharp\\dotnet\\translate-speech-to-text\\helloworld\\helloworld.csproj",
+        "packagesPath": "C:\\Users\\Taha\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Taha\\Desktop\\cognitive-services-speech-sdk-master\\cognitive-services-speech-sdk-master\\quickstart\\csharp\\dotnet\\translate-speech-to-text\\helloworld\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\Taha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net462"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net462": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net462": {
+          "dependencies": {
+            "Microsoft.CognitiveServices.Speech": {
+              "target": "Package",
+              "version": "[1.24.0, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win-arm": {
+          "#import": []
+        },
+        "win-arm64": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

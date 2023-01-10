@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ws4IXwLU8mtuSOqA07ZyQamjvkf+AmtbPlmKOOZ1hZyJ0nrsQ8nuIgC6LwISIZ7AL5zZ9sO2k6EFs7D75xRtmg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Taha\\Desktop\\cognitive-services-speech-sdk-master\\cognitive-services-speech-sdk-master\\quickstart\\csharp\\dotnet\\translate-speech-to-text\\helloworld\\helloworld.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Taha\\.nuget\\packages\\microsoft.cognitiveservices.speech\\1.24.0\\microsoft.cognitiveservices.speech.1.24.0.nupkg.sha512"
+  ],
+  "logs": []
+}

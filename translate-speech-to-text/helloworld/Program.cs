@@ -17,7 +17,7 @@ namespace helloworld
         {
             // Creates an instance of a speech translation config with specified subscription key and service region.
             // Replace with your own subscription key and service region (e.g., "westus").
-            var config = SpeechTranslationConfig.FromSubscription("32eebc938a9142b287af47ef6fbb59b2", "eastus");
+            var config = SpeechTranslationConfig.FromSubscription("KEY", "eastus");
 
             // Sets source and target languages.
             string fromLanguage = "en-US";
